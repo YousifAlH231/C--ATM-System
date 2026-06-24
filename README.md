@@ -33,13 +33,6 @@ After successful authentication, users can perform ATM operations such as checki
 - C++
 - Standard Library (iostream, string)
 
-## Future Improvements
-
-- Save account data using files
-- Add transaction history
-- Improve security features
-- Use dynamic data storage
-
 ## Author
 
 Yousif
